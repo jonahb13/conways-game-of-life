@@ -15,12 +15,12 @@ Depending on the initial alive cells, this can lead to some interesting patterns
 ## Example Simulations
 
 <div style="display: flex">
-    <figure>
-        <img src="gifs/demo1.gif" alt="" width="300" height="250" />
-        <figcaption style="text-align: center">20x20 Grid</figcaption>
+    <figure style="display: inline-block">
+        <img src="gifs/demo1.gif" alt="" width="300" height="250" style="vertical-align: top" />
+        <figcaption style="text-align: center; padding: 10px">20x20 Grid</figcaption>
     </figure>
-    <figure>
-        <img src="gifs/demo2.gif" alt="" width="300" height="250" />
-        <figcaption style="text-align: center">130x130 Grid</figcaption>
+    <figure style="display: inline-block">
+        <img src="gifs/demo2.gif" alt="" width="300" height="250" style="vertical-align: top" />
+        <figcaption style="text-align: center; padding: 10px">130x130 Grid</figcaption>
     </figure>
 </div>
